@@ -1,4 +1,4 @@
-### Exemplo de Diagrama UML (Mermaid)
+### Exemplo de Diagrama UML (Mermaid) by: Leonardo Roeda
 ```mermaid
 classDiagram
     class ReprodutorMusical {
